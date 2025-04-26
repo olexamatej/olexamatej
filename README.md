@@ -5,6 +5,7 @@
 
 - ⚡ **I like korean CTFs**
 - 🕵️ **Im interested in low level stuff**
+- 🦆 **But I dont mind learning something new!**
 
 
 <h3 align="left">Languages and Tools:</h3>
