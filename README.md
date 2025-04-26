@@ -4,6 +4,7 @@
 - 📫 Reach me at **olexa.matej@gmail.com**
 
 - ⚡ **I like korean CTFs**
+- 🕵️ **Im interested in low level stuff**
 
 
 <h3 align="left">Languages and Tools:</h3>
