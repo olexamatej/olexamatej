@@ -2,9 +2,9 @@
 <h3 align="center">Cybersecurity student breaking things (legally)</h3>
 
 - 🎓 Master's in Cybersecurity @ Brno University of Technology
-- 🔬 Student researcher working on LLM security (
+- 🔬 Student researcher working on LLM security 
 - 🕵️ Into low-level stuff, binary exploitation, and reverse engineering
-- 🚩 CTF enthusiast 
+- 🚩 CTF enthusiast (i love korean ctfs!)
 - 🦆 But I don't mind learning something new!
 - 📫 **olexa.matej@gmail.com**
 - 🌐 **[olexamatej.github.io](https://olexamatej.github.io)**
