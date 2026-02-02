@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matej</h1>
-<h3 align="center">Cybersecurity student breaking things (legally)</h3>
+<h3 align="center">Cybersec student, just learning stuff</h3>
 
 - 🎓 Master's in Cybersecurity @ Brno University of Technology
 - 🔬 Student researcher working on LLM security 
